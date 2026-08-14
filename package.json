@@ -35,8 +35,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost:8080",
-  "homepage": "/backoffice",
+
+  "homepage": ".",
   "eslintConfig": {
     "extends": [
       "react-app",
